@@ -13,7 +13,7 @@ export default function Home() {
       <h1 className="text-center text-4xl md:text-5xl xl:text-7xl  text-bold mt-20">
           Your Collection
         </h1>
-        <p className="text-center text-2xl text-bold mb-20">
+        <p className="text-center text-2xl text-bold mb-20 dark:text-gray-400">
           All saved in one location
         </p>
       <Hero2  />
